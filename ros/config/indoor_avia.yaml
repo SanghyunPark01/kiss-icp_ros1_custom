@@ -1,0 +1,13 @@
+# Parameter set for CoCEL Handheld Indoor environment
+
+# topic: /livox/points (set in launch file or command line)
+
+out_dir: "results"
+
+deskew: true
+max_range: 320
+min_range: 1
+voxel_size: 0.25
+max_points_per_voxel: 2
+initial_threshold: 2.0
+min_motion_th: 0.1
