@@ -1,3 +1,7 @@
+# Edit
+- Parameter config file in `/ros/config/`  
+
+
 <div align="center">
     <h1>KISS-ICP</h1>
     <a href="https://github.com/PRBonn/kiss-icp/releases"><img src="https://img.shields.io/github/v/release/PRBonn/kiss-icp?label=version" /></a>
